@@ -1,0 +1,17 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json": "node jsonServer.js # json-server --watch db.json",
+    "web-push": "web-push"
+  },
+  "author": "Harsha Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "web-push": "^3.4.5"
+  }
+}

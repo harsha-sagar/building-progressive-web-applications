@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pwagram-39d1e.appspot.com/o/sf-boat.jpg?alt=media&token=935bca78-f25d-4169-a534-ac111d12275c",
+      "location": "Bangalore",
+      "title": "Namma Bengaluru"
+    }
+  ],
+  "subscriptions": [
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/dJkLp9zugCo:APA91bFi-hkUNo_CrNjZP-DLPZ1UuwGUu2kXnd0oxoa-9oPr67ZY_hRlB1hpKjhPBiwMkyVBoXdkyODy0Gysf1FiAbvjDYL8pvYj8WyGnDWKHO-GzRd7xVFLs8LF7HoFuCDS1AUSmdrk",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BOk-Xx-bbgF2OntO6iDODHJKFoHc8dEd3oGjbZ_Jrqv9cqxJW1K3CVbUEMflMAJCp4GeenqHp-3_cgb5r3HFF1M",
+        "auth": "sbe724DnlAdisimSa_yFgA"
+      },
+      "id": 1
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/cF8fQocAftc:APA91bFRcPDmjy8CNhkpl9pTxGUkMwqZRCVFFsGj6zDMBXOgRnSWH-AEAgliD37GvDNsoW1pxVzvLcMA_sVPSysm7nMRJJM-Avz7PWo6Z7G5KNgoX1xpyJARYjmKp8P8gPoORhb9mr3n",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BC6-j2_F5Uqzyxo4ZS2gg7UpN8UFpZZySByZdhyVzQdGT0DKBxOvaVLoSEImAJQ_F3gx09I1E-aV-9J9H-9gFtk",
+        "auth": "pTiT6CrLmthlwCjG4tPdfA"
+      },
+      "id": 2
+    }
+  ]
+}
